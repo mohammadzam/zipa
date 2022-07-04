@@ -1,0 +1,27 @@
+.custom-invoice-bordered{
+    margin-top: 20px;
+    border-top: 3px dashed #b6c2e4;
+
+}
+.custom-invoice-bordered:first-child{
+
+}
+.custom-invoice-bordered:last-child{
+
+    border-bottom: 3px dashed #b6c2e4;
+}
+.custom-title-bordered{
+    border-top: 3px dashed #b6c2e4;
+    margin-top: 38px;
+    padding-top: 10px;
+
+}
+.custom-title-bordered:first-child{
+    border-top:none;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.details-bordered{
+    border-top: 4px double #b6c2e4;
+    margin-top: 38px;
+}

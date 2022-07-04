@@ -1,0 +1,9 @@
+{
+    "Panel": true,
+    "Admin": true,
+    "User": true,
+    "Sick": true,
+    "Doctor": true,
+    "Section": true,
+    "Financial": true
+}
