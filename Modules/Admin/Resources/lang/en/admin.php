@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'login_title' => '/خ',
+    'login_title' => 'ورود',
     'admin' => 'مدیر',
     'admins' => 'مدیران',
     'name' => 'نام',

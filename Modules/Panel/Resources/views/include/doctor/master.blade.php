@@ -20,7 +20,8 @@
     <link href="{{asset('assets/css/icons.min.css')}}" rel="stylesheet" type="text/css" />
     <link href="{{asset('assets/css/metisMenu.min.css')}}" rel="stylesheet" type="text/css" />
     <link href="{{asset('plugins/daterangepicker/daterangepicker.css')}}" rel="stylesheet" type="text/css" />
-    <link href="{{asset('assets/css/app-rtl.min.css')}}" rel="stylesheet" type="text/css" />
+{{--    <link href="{{asset('assets/css/app-rtl.min.css')}}" rel="stylesheet" type="text/css" />--}}
+    <link href="{{asset('assets/css/app.min.css')}}" rel="stylesheet" type="text/css" />
     <link href="{{asset('assets/css/avatar-uploade.css')}}" rel="stylesheet" type="text/css" />
     <link href="{{asset('assets/css/jalalidatepicker.css')}}" rel="stylesheet" type="text/css" />
     <link href="{{asset('assets/css/jalalidatepicker2.css')}}" rel="stylesheet" type="text/css" />
