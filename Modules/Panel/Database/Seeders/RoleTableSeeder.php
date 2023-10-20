@@ -38,4 +38,28 @@ class RoleTableSeeder extends Seeder
 //DB_DATABASE=zipa
 //DB_USERNAME= root
 //DB_PASSWORD=
+
+
+/**
+php artisan module:migrate Panel
+php artisan module:seed Panel
+
+php artisan module:migrate Admin
+php artisan module:seed Admin
+
+php artisan module:migrate Section
+php artisan module:seed Section
+
+
+php artisan module:migrate Doctor
+php artisan module:seed Doctor
+
+php artisan module:migrate Financial
+php artisan module:seed Financial
+
+
+php artisan module:migrate Sick
+php artisan module:seed Sick
+
+**/
 }
